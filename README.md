@@ -5,11 +5,14 @@ In Phase 1 of the DeepLearning Cohort 2023, we will be taking our Python skills 
 ## Topics Covered
 In Phase 1, we will cover the following topics:
 
-## Python Programming: Learning Python from the basics to an advanced level, including topics like functions, classes, and modules.
+### Python Programming: 
+Learning Python from the basics to an advanced level, including topics like functions, classes, and modules.
 
-## Introduction to Data Science Libraries: Exploring essential data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn. These libraries are crucial for data manipulation, visualization, and analysis.
+### Introduction to Data Science Libraries: 
+Exploring essential data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn. These libraries are crucial for data manipulation, visualization, and analysis.
 
-## TensorFlow Basics: Understanding the fundamentals of TensorFlow, a popular deep learning framework, and learning how to create and train basic neural networks.
+### TensorFlow Basics: 
+Understanding the fundamentals of TensorFlow, a popular deep learning framework, and learning how to create and train basic neural networks.
 
 ## How to Use this Repository
 This repository will contain the code and examples for each topic covered in Phase 1. You can find the code, notebooks, and other learning materials in their respective directories.
